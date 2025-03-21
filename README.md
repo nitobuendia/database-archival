@@ -21,3 +21,7 @@ This concept is similar to BigTable's age-based
 Refer to detailed documentation in [docs/index.md](/docs/index.md).
 
 Disclaimer: This is not an official Google product.
+
+*Disclaimer: This a copy/fork for display of work purposes. If you are
+interested in using and/or contributing to this project, refer to the
+[original source](https://github.com/GoogleCloudPlatform/cloud-solutions/tree/592d469d4092c25abff2d0391b9c41d5dcd054ae/projects/database-archival).*
